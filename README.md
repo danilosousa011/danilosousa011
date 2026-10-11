@@ -1,12 +1,6 @@
-<div align="center">
+<div align="center"> <img src="https://raw.githubusercontent.com/danilosousa011/danilosousa011/main/banner.svg" alt="Danilo Sousa - Desenvolvedor Full Stack em formação" width="100%"/> <br/>
 
-<img src="https://raw.githubusercontent.com/danilosousa011/danilosousa011/main/banner.svg" alt="Danilo Sousa - Desenvolvedor Full Stack em formação" width="100%"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/danilofreitas11"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:danilosilva01profissional@gmail.com"><img src="https://img.shields.io/badge/E--mail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-<img src="https://img.shields.io/badge/Barueri%2C%20SP-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Barueri, SP"/>
+<a href="https://www.linkedin.com/in/danilofreitas11"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:danilosilva01profissional@gmail.com"><img src="https://img.shields.io/badge/E--mail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a> <img src="https://img.shields.io/badge/Barueri%2C%20SP-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Barueri, SP"/>
 
 </div>
 
