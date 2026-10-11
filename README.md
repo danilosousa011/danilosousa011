@@ -1,6 +1,11 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/danilosousa011/danilosousa011/main/banner.svg" alt="Danilo Sousa - Desenvolvedor Full Stack em formação" width="100%"/> <br/>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/danilofreitas11"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:danilosilva01profissional@gmail.com"><img src="https://img.shields.io/badge/E--mail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a> <img src="https://img.shields.io/badge/Barueri%2C%20SP-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Barueri, SP"/>
+<img src="https://raw.githubusercontent.com/danilosousa011/danilosousa011/main/banner.svg" alt="Danilo Sousa - Desenvolvedor Full Stack em formação" width="100%"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/danilofreitas11"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Barueri%2C%20SP-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Barueri, SP"/>
 
 </div>
 
@@ -17,7 +22,7 @@
 ✔ Code engine activated
 ✔ Projects loaded
 
-STATUS: ONLINE 🟣  |  OBJETIVO: estágio em TI
+STATUS: ONLINE 🔵  |  OBJETIVO: estágio em TI
 ```
 
 ## 👨‍💻 Sobre mim
@@ -28,7 +33,7 @@ Construo projetos, estudo todos os dias e estou em busca da minha **primeira opo
 - 🔭 Estudando: Java, Spring Boot, React e SQL Server
 - 🌱 Praticando: projetos full stack do back-end ao front-end
 - 🌍 Aprendendo inglês para crescer na carreira
-- 📫 Fale comigo pelo LinkedIn ou e-mail acima
+- 📫 Fale comigo pelo LinkedIn acima
 
 ## ⚡ Tech Stack
 
@@ -36,17 +41,18 @@ Construo projetos, estudo todos os dias e estou em busca da minha **primeira opo
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,html,css,git,github,vscode&theme=dark" alt="Tech stack"/>
 <br/>
-<img src="https://img.shields.io/badge/SQL%20Server-7C3AED?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/SQL%20Server-2563EB?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 </div>
+
 
 
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danilosousa011&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0820" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosousa011&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0820" alt="Linguagens mais usadas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danilosousa011&show_icons=true&hide_border=true&bg_color=040d24&title_color=3b82f6&icon_color=60a5fa&text_color=dbeafe" alt="Estatísticas do GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosousa011&layout=compact&hide_border=true&bg_color=040d24&title_color=3b82f6&icon_color=60a5fa&text_color=dbeafe" alt="Linguagens mais usadas"/>
 
 </div>
 
