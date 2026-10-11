@@ -5,7 +5,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/danilofreitas11"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/Barueri%2C%20SP-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Barueri, SP"/>
 
 </div>
 
